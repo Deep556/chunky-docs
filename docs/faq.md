@@ -38,6 +38,8 @@ Please post bugs on the [chunky GitHub page.][1]
 * **Q: Where can I find Skymaps?**
   The [Skymap][3] page has some useful links for obtaining high quality skymaps.
 
+* **Q: Why can't my world upload?**
+
 
 [0]:http://www.reddit.com/r/chunky
 [1]:https://github.com/llbit/chunky/issues
